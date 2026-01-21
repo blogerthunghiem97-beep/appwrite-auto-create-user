@@ -1,0 +1,1 @@
+# appwrite-auto-create-user
